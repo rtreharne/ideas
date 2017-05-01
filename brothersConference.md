@@ -4,6 +4,11 @@
 
 WebApp that enables anyone to spin up a conference website v. quickly
 
+## Files
+
++ [Work Log](worklogs/brothersConference_worklog.md)
++ [Plan for static HTML site](worklogs/staticHTML_plan.md)
+
 ## Functionality
 
 + User admin

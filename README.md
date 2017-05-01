@@ -10,3 +10,5 @@
 3. Nursery Day Card WebApp
 4. Optical Filter WebApp
 5. Write your Thesis in Latex (Book)
+6. [Acoustic Playlist](acousticPlaylist.md)
+7. Cell Logging WebApp
