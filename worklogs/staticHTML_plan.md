@@ -12,6 +12,7 @@
 2. Landing Page
   + Welcome
     - Registration Form Modal
+    - GENERIC FORM MODAL
   + Sponsors
     - Dummy content
   + About
